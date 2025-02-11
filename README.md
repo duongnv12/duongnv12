@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## 📫 How to Reach Me
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **Email:** [your-email@example.com](mailto:duong.04@outlook.com)
 - **LinkedIn:** [Duong Nguyen](https://www.linkedin.com/in/duongnguyen/)
 - **Twitter:** [@duongnv12](https://twitter.com/duongnv12)
 
