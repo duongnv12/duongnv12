@@ -22,8 +22,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## 🌟 Top Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=duongnv12&repo=your-top-repo&theme=radical)](https://github.com/duongnv12/family-management)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=duongnv12&repo=another-top-repo&theme=radical)](https://github.com/duongnv12/xep_lich_thi)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=duongnv12&repo=family-management&theme=radical)](https://github.com/duongnv12/family-management)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=duongnv12&repo=xep_lich_thi&theme=radical)](https://github.com/duongnv12/xep_lich_thi)
 
 ## 📫 How to Reach Me
 
