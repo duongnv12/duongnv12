@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 ## 🚀 About Me
 
 - **Name:** Duong Nguyen
-- **Location:** [Your City, Country]
+- **Location:** [Hanoi, Vietnam]
 - **Occupation:** Software Developer
 - **Interests:** Coding, Open Source, AI, Machine Learning, Web Development
 
@@ -22,12 +22,12 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## 🌟 Top Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=duongnv12&repo=your-top-repo&theme=radical)](https://github.com/duongnv12/your-top-repo)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=duongnv12&repo=another-top-repo&theme=radical)](https://github.com/duongnv12/another-top-repo)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=duongnv12&repo=your-top-repo&theme=radical)](https://github.com/duongnv12/family-management)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=duongnv12&repo=another-top-repo&theme=radical)](https://github.com/duongnv12/xep_lich_thi)
 
 ## 📫 How to Reach Me
 
-- **Email:** [your-email@example.com](mailto:duong.04@outlook.com)
+- **Email:** [duong.04@outlook.com](mailto:duong.04@outlook.com)
 - **LinkedIn:** [Duong Nguyen](https://www.linkedin.com/in/duongnguyen/)
 - **Twitter:** [@duongnv12](https://twitter.com/duongnv12)
 
