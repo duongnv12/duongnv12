@@ -16,10 +16,10 @@
 
 ## 주요 프로젝트
 
-### 1. [프로젝트 이름 1](https://github.com/duongnv12/project1](https://github.com/duongnv12/financial_management)
+### 1. [프로젝트 이름 1](https://github.com/duongnv12/financial_management)
 간단한 설명: 이 프로젝트는 __을(를) 목표로 합니다. 주요 기능은 __ 입니다.
 
-### 2. [프로젝트 이름 2](https://github.com/duongnv12/project2](https://github.com/duongnv12/Compilers-Lab)
+### 2. [프로젝트 이름 2](https://github.com/duongnv12/Compilers-Lab)
 간단한 설명: 이 프로젝트는 __을(를) 목표로 합니다. 주요 기능은 __ 입니다.
 
 ### 3. [프로젝트 이름 3](https://github.com/duongnv12/project3)
