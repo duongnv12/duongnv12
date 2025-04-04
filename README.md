@@ -1,35 +1,35 @@
-# Hello, I'm Duong Nguyen! 👋
+# Giới thiệu
 
-## About Me
+Xin chào! Tôi là Dương Nguyễn, một Business Analyst với kinh nghiệm làm việc trong lĩnh vực phân tích và tư vấn kinh doanh.
 
-I'm a passionate software developer with a love for learning and creating innovative solutions. With a strong background in computer science and hands-on experience in various programming languages and technologies, I enjoy tackling complex problems and turning ideas into reality.
+## Về tôi
 
-## Skills
+- **Tên:** Dương Nguyễn
+- **Chức vụ:** Business Analyst
+- **Kinh nghiệm:** 2 năm
+- **Lĩnh vực chuyên môn:** Phân tích kinh doanh, Tư vấn chiến lược, Quản lý dự án
 
-- **Languages**: Python, JavaScript, Dart, Java, C++
-- **Web Development**: HTML, CSS, React, Node.js, Express, Flutter
-- **Databases**: Firebase, MongoDB
-- **Others**: Git
+## Kỹ năng chuyên môn
 
-## Projects
+- **Phân tích yêu cầu:** Xác định và phân tích yêu cầu kinh doanh từ phía khách hàng và các bên liên quan.
+- **Quản lý dự án:** Lên kế hoạch và giám sát tiến độ dự án.
+- **Tư vấn chiến lược:** Đưa ra các giải pháp và chiến lược nhằm tối ưu hóa hiệu quả kinh doanh.
+- **Giao tiếp:** Kỹ năng giao tiếp và thuyết trình hiệu quả.
 
-### Project 1: [Awesome Project](https://github.com/duongnv12/legacy_keeper.git)
-A brief description of what this project is about and what technologies were used.
+## Dự án tiêu biểu
 
-### Project 2: [Another Cool Project](https://github.com/duongnv12/another-cool-project)
-A brief description of what this project is about and what technologies were used.
+1. **Phát triển phần mềm xếp lịch thi**
+   - **Mô tả:** Phần mềm hỗ trợ việc xếp lịch thi tự động cho các trường học, đảm bảo sự linh hoạt và chính xác trong quá trình lập lịch.
+   - **Vai trò:** Business Analyst
+   - **Kết quả:** Đã triển khai thành công và được sử dụng rộng rãi trong nhiều trường học, giảm thiểu sai sót và tăng hiệu quả trong việc xếp lịch thi.
 
-## Education
+2. **Phát triển phần mềm quản lý dòng họ**
+   - **Mô tả:** Phần mềm giúp quản lý thông tin và các hoạt động của dòng họ, bao gồm việc lưu trữ thông tin thành viên, quản lý sự kiện và kết nối các thành viên.
+   - **Vai trò:** Business Analyst
+   - **Kết quả:** Được triển khai thành công, giúp dòng họ quản lý thông tin một cách hiệu quả và kết nối các thành viên dễ dàng hơn.
 
-- Bachelor of Science in Computer Science, [Your University]
-- Relevant coursework: Data Structures, Algorithms, Operating Systems, Database Systems, Software Engineering
+## Liên hệ
 
-## Contact
+- **Email:** duong.04@outlook.com
 
-- **Email**: [your-email@example.com](mailto:duong.04@outlook.com)
-- **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile)
-- **GitHub**: [github.com/duongnv12](https://github.com/duongnv12)
-
----
-
-Feel free to reach out if you want to collaborate on a project, have any questions, or just want to connect!
+Cảm ơn bạn đã ghé thăm trang GitHub của tôi!
