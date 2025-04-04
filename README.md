@@ -19,12 +19,12 @@ Xin chào! Tôi là Dương Nguyễn, một Business Analyst với kinh nghiệm
 ## Dự án tiêu biểu
 
 1. **Phát triển phần mềm xếp lịch thi**
-   - **Mô tả:** Phần mềm hỗ trợ việc xếp lịch thi tự động cho các trường học, đảm bảo sự linh hoạt và chính xác trong quá trình lập lịch.
+   - **Mô tả:** Phần mềm hỗ trợ việc xếp lịch thi tự động cho trường đại học, đảm bảo sự linh hoạt và chính xác trong quá trình lập lịch.
    - **Vai trò:** Business Analyst
-   - **Kết quả:** Đã triển khai thành công và được sử dụng rộng rãi trong nhiều trường học, giảm thiểu sai sót và tăng hiệu quả trong việc xếp lịch thi.
+   - **Kết quả:** Đã triển khai thành công và được sử dụng rộng rãi trong phạm vi trường, giảm thiểu sai sót và tăng hiệu quả trong việc xếp lịch thi.
 
 2. **Phát triển phần mềm quản lý dòng họ**
-   - **Mô tả:** Phần mềm giúp quản lý thông tin và các hoạt động của dòng họ, bao gồm việc lưu trữ thông tin thành viên, quản lý sự kiện và kết nối các thành viên.
+   - **Mô tả:** Phần mềm giúp quản lý thông tin và các hoạt động của dòng họ, bao gồm việc lưu trữ thông tin thành viên, quản lý tài chính, sự kiện và kết nối các thành viên.
    - **Vai trò:** Business Analyst
    - **Kết quả:** Được triển khai thành công, giúp dòng họ quản lý thông tin một cách hiệu quả và kết nối các thành viên dễ dàng hơn.
 
