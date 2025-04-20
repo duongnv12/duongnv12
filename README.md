@@ -22,6 +22,7 @@ Xin chào! Tôi là Dương Nguyễn, một Business Analyst với kinh nghiệm
    - **Mô tả:** Phần mềm hỗ trợ việc xếp lịch thi tự động cho trường đại học, đảm bảo sự linh hoạt và chính xác trong quá trình lập lịch.
    - **Vai trò:** Business Analyst
    - **Kết quả:** Đã triển khai thành công và được sử dụng rộng rãi trong phạm vi trường, giảm thiểu sai sót và tăng hiệu quả trong việc xếp lịch thi.
+   - **Link**: https://github.com/dminhtri28082004/exam-scheduling-system.git.
 
 2. **Phát triển phần mềm quản lý dòng họ**
    - **Mô tả:** Phần mềm giúp quản lý thông tin và các hoạt động của dòng họ, bao gồm việc lưu trữ thông tin thành viên, quản lý tài chính, sự kiện và kết nối các thành viên.
