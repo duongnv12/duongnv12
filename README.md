@@ -29,6 +29,7 @@ Xin chào! Tôi là Dương Nguyễn, một Business Analyst với kinh nghiệm
    - **Vai trò:** Business Analyst
    - **Kết quả:** Được triển khai thành công, giúp dòng họ quản lý thông tin một cách hiệu quả và kết nối các thành viên dễ dàng hơn.
 
+3. **Phát triển phần mềm quản lý chương trình đào tạo và tiến độ học tập của sinh viên**
 ## Liên hệ
 
 - **Email:** duong.04@outlook.com
