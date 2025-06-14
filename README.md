@@ -3,5 +3,5 @@
 - 🌱 I'm currently diving deep into **Information Technology** principles and actively honing my skills in the **Korean language**.
 - 💞️ I'm eager to collaborate on **impactful IT projects** that offer opportunities to grow as a Business Analyst or contribute to quality assurance through test automation. I'm open to learning from experienced professionals and contributing my best.
 - 📫 How to reach me: You can drop me an email at [Gmail](ngduog.04@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/duong-nguyen-van-326687366/). Let's chat!
-- 😄 Pronouns: Her
+- 😄 Pronouns: Him
 - ⚡ Fun fact: My dream is to someday analyze the business requirements for a K-Pop concert ticketing system!
