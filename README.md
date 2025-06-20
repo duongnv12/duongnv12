@@ -61,7 +61,6 @@ One day I’ll be designing the ultimate **K-Pop concert ticketing system**—no
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=duongnv12&style=flat-square&color=blue" alt="Profile views" />
   <img src="https://github-readme-stats.vercel.app/api?username=duongnv12&show_icons=true&theme=react" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duongnv12&layout=compact&theme=react" alt="Top Languages" width="48%" />
 </div>
