@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hi there, I’m Duong Nguyen!</h1>
   <p>🔍 Exploring the sweet spot between <strong>Business Analysis</strong> & <strong>Test Automation</strong></p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=24&pause=1000&color=7289DA&center=true&vCenter=true&width=500&lines=Turning+complex+problems+into+robust+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=24&pause=1000&color=7289DA&center=true&vCenter=true&width=500&lines=\\Turning+complex+problems+into+robust+solutions" alt="Typing SVG" />
 </div>
 
 ---
@@ -61,6 +61,6 @@ One day I’ll be designing the ultimate **K-Pop concert ticketing system**—no
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duongnv12&show_icons=true&theme=react" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duongnv12&layout=compact&theme=react" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=duongnv12&show_icons=true&theme=react" alt="GitHub Stats" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duongnv12&layout=compact&theme=react" alt="Top Languages" width="50%" />
 </div>
