@@ -18,13 +18,14 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Business%20Analysis-FDD135?style=flat-square&logo=balsamiq&logoColor=white" />
   <img src="https://img.shields.io/badge/Test%20Automation-00CBD3?style=flat-square&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framework-SpringBoot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Language-Java-007396?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Database-MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Korean-Beginner-C71585?style=flat-square&logo=korean&logoColor=white" />
   <img src="https://img.shields.io/badge/Tools-JIRA-0052CC?style=flat-square&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Tools-Git-E44C30?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Tools-Office-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markup-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
 </div>
 
 ---
@@ -38,7 +39,7 @@
 ---
 
 ## 💼 Experience & Education
-- 🎓 B.S. in Information Technology (In progress)  
+- 🎓 B.S. in Information Technology (In progress)    
 
 ---
 
@@ -48,17 +49,20 @@ I’m on the lookout for challenging IT projects where I can:
 - 🚀 Build maintainable test automation frameworks  
 - 🌱 Learn from seasoned pros and give my best back  
 
-📫 Drop me a line at [ngduog.04@gmail.com](mailto:ngduog.04@gmail.com)  
+📫 Drop me a line at [Gmail](mailto:ngduog.04@gmail.com)  
 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/duong-nguyen-van-326687366/)  
 
 ---
 
-## ⚡ Fun Fact
-One day I’ll be designing the ultimate **K-Pop concert ticketing system**—no fan left behind!
+## ⚡ Fun Fact  
+<div align="center">
+  🎉 One day, I’ll architect the ultimate K-Pop concert ticketing system—making sure no fan ever misses their favorite act!
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duongnv12&show_icons=true&theme=react" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duongnv12&layout=compact&theme=react" alt="Top Languages" width="48%" />
+  <img src="https://komarev.com/ghpvc/?username=duongnv12&style=flat-square&color=blue" alt="Profile views" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=duongnv12&show_icons=true&theme=react" alt="GitHub Stats" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duongnv12&layout=compact&theme=react" alt="Top Languages" width="32%" />
 </div>
