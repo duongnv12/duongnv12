@@ -38,9 +38,7 @@
 ---
 
 ## 💼 Experience & Education
-- 🎓 B.S. in Information Systems (In progress)  
-- 🧪 QA Intern @ ABC Corp: Built and executed end-to-end test cases  
-- 🤝 Freelance Business Analyst: Elicited & documented requirements for SMBs  
+- 🎓 B.S. in Information Technology (In progress)  
 
 ---
 
