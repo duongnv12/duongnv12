@@ -50,7 +50,7 @@ I’m on the lookout for challenging IT projects where I can:
 - 🌱 Learn from seasoned pros and give my best back  
 
 📫 Drop me a line at [Gmail](mailto:ngduog.04@gmail.com)  
-🔗 Connect on [LinkedIn](https://www.linkedin.com/in/duong-nguyen-van-326687366/)  
+🔗 Connect on [LinkedIn](https://www.linkedin.com/in/nvduong/)  
 
 ---
 
